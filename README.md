@@ -111,7 +111,7 @@ res/
 
 ## 📦 Download APK
 
-📥 [Unduh Zoonary v1.0](https://github.com/username/Zoonary/releases/download/v1.0/app-release.apk)
+📥 [Unduh Zoonary v1.0](https://github.com/dHunter1811/Zoonary/releases/tag/v1.0)
 
 ---
 
@@ -129,5 +129,5 @@ res/
 
 ## 👨‍💻 Tentang Pengembang
 
-Dikembangkan oleh [Muhammad Dimas Aditya](https://github.com/username)  
+Dikembangkan oleh [Muhammad Dimas Aditya](https://github.com/dHunter1811)  
 Universitas Lambung Mangkurat – Pendidikan Komputer 2023
