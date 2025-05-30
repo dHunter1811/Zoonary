@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261630243735",
+    "project_id": "login-8a9c3",
+    "storage_bucket": "login-8a9c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261630243735:android:b2d10f24c00d27e541cad2",
+        "android_client_info": {
+          "package_name": "com.example.latihan_praktikum_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261630243735-f0a4p5r2vg3eu0ath6v6kmftnim3kimc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_praktikum_7",
+            "certificate_hash": "624ac0ae5203ff45a599c79c4245631e37dda56a"
+          }
+        },
+        {
+          "client_id": "261630243735-0n96s6ee7q92d0d748thfrjvpg5f5f2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0qXhozXsTISAhhkyFGnmBzVkUVfSrFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261630243735-0n96s6ee7q92d0d748thfrjvpg5f5f2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
